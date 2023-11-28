@@ -16,9 +16,9 @@ MoodRythm is an iOS application that enriches your music listening experience by
 
 <div style="display:flex;">
   <img src="screenshots/main_page.png" alt="Main Page" width="300"/>
-  <img src="screenshots/register.png" alt="Register Screen" width="300"/>
+  <img src="screenshots/sign_in.png" alt="Register Screen" width="300"/>
   <img src="screenshots/login.png" alt="Sign In Page" width="300"/>
-  <img src="screenshots/Simulator Screenshot - iPhone 15 Pro - 2023-11-27 at 17.32.38" alt="Register Screen" width="300"/>
+  <img src="screenshots/register.png" alt="Log In" width="300"/>
   <img src="screenshots/weather_view.png" alt="Recycle View " width="300"/>
   <img src="screenshots/music_rec_back.png" alt="Dashboard" width="300"/>
   <img src="screenshots/music_player.png" alt="User Profile" width="300"/>
