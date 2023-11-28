@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDOK3DwvgXuoHl5-7agj3WORnP458hx06U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>431309435692</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.project.MoodRhythms</string>
+	<key>PROJECT_ID</key>
+	<string>moodrhythms-758dc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>moodrhythms-758dc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:431309435692:ios:e8401676c852972890f289</string>
+</dict>
+</plist>
