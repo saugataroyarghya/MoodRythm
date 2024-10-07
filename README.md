@@ -31,10 +31,10 @@ MoodRythm is an iOS application that enriches your music listening experience by
 MoodRythm is developed by the following individuals, each of whom contributed equally to its creation:
 
 1. [Soummo Bhattacharya](https://github.com/SoummoSsj)
-2. [Md. Rakibul Hasan Adnan](https://github.com/RakibHasan106)
-3. [Mohammad Abtahe Alam](https://github.com/Abtahe103)
-4. [Aciful Islam Khan Swopnile](https://github.com/Elin-powS)
-5. [Saugata Roy Arghya](https://github.com/saugataroyarghya)
+2. [Saugata Roy Arghya](https://github.com/saugataroyarghya)
+3. [Aciful Islam Khan Swopnile](https://github.com/Elin-powS)
+4. [Md. Rakibul Hasan Adnan](https://github.com/RakibHasan106)
+5. [Mohammad Abtahe Alam](https://github.com/Abtahe103)
 
 ---
 
