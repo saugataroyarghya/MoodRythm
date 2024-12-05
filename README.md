@@ -1,6 +1,6 @@
 # MoodRythm
 
-MoodRythm is an iOS application that enriches your music listening experience by curating personalized playlists based on real-time weather conditions. This app aims to establish a harmonious connection between your mood and the atmospheric ambiance, providing you with a unique and dynamic soundtrack tailored to the weather.
+MoodRythm is an iOS application that enriches your music listening experience by curating personalized playlists based on real-time weather conditions. This app aims to establish a harmonious connection between your mood and the atmospheric ambiance, providing you with a unique and dynamic soundtrack tailored to the weather. By seamlessly blending advanced weather tracking with intelligent music recommendations, MoodRythm transforms your daily routine into an immersive auditory journey. Whether it's a rainy afternoon or a sunny morning, the app ensures your music reflects the vibe of the day, elevating your listening experience to new heights.
 
 ## Features
 
